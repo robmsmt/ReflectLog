@@ -1,0 +1,4 @@
+arrow==0.11.0
+ics==0.5
+requests==2.26.0
+PySimpleGUI==4.46.0
